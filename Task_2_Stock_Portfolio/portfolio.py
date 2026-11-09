@@ -1,12 +1,3 @@
-"""
-=============================================================================
-Project 2: Stock Portfolio Tracker
-Author: CodeAlpha Python Internship
-Description: A menu-driven terminal application to track stock holdings,
-             calculate investments, search, update, remove positions,
-             and persist data to a CSV file.
-=============================================================================
-"""
 
 import csv
 import os
